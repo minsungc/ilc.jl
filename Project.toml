@@ -1,2 +1,7 @@
+name = "ILC"
+uuid = "b3d43730-bac3-477d-84e3-d94fa0ac73de"
+authors = ["minsung <minsung@ccs.neu.edu>"]
+version = "0.1.0"
+
 [deps]
 Match = "7eb4fadd-790c-5f42-8a69-bfa0b872bfbf"
